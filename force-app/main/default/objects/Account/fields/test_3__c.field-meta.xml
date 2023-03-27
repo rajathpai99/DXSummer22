@@ -3,7 +3,7 @@
     <fullName>test_3__c</fullName>
     <description>Dummy description</description>
     <externalId>false</externalId>
-    <inlineHelpText>Testing - updated version</inlineHelpText>
+    <inlineHelpText>Testing - updated help text</inlineHelpText>
     <label>test 3 upd</label>
     <length>10</length>
     <required>false</required>
