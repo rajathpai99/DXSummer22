@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>test_4__c</fullName>
     <externalId>false</externalId>
-    <inlineHelpText>Testing - updated help</inlineHelpText>
+    <inlineHelpText>Testing - updated help - v1</inlineHelpText>
     <label>test 4</label>
     <length>10</length>
     <required>false</required>
